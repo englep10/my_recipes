@@ -44,11 +44,11 @@ group :development, :test do
 end
 
 gem 'pry-rails'
-# gem 'devise'
+gem 'devise'
 gem 'bootstrap-sass'
-# gem 'httparty'
-# gem 'cocoon'
-# gem 'paperclip'
+gem 'httparty'
+gem 'cocoon'
+gem 'paperclip'
 gem 'haml'
 gem 'simple_form'
 gem 'aws-sdk'
