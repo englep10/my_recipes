@@ -52,3 +52,5 @@ gem 'paperclip'
 gem 'haml'
 gem 'simple_form'
 gem 'aws-sdk'
+gem "rails-erd"
+gem 'ruby-graphviz'
